@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Initialize your SQLite repository
+    
     final SQLiteTodoRepository todoRepository = SQLiteTodoRepository();
  
     return MaterialApp(
