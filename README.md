@@ -1,6 +1,8 @@
 # todo_bloc
 
-A new Flutter project.
+A new Flutter project
+<img width="907" alt="Capture" src="https://github.com/user-attachments/assets/8efc41e1-aae2-43dc-b30d-8357c255a0af" />
+.
 
 ## Getting Started
 
