@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: TodoPage(todoRepository: todoRepository), // Pass the repository directly
+      home: TodoPage(todoRepository: todoRepository),
     );
   }
 }
